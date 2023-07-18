@@ -1,11 +1,12 @@
 # 30.-MIT--Facial-Recognition
-TASKS-
+#TASKS-
 
 Creating an AI-based facial recognition software involves several steps, follwing are high-level steps to be followed, of the typical process:
 
 Define the Objectives: 
 1. User should be able to upload the picture and system should be able to find the face from the live and recorded videos with time stamp.
 2. System should be able to highlight after certiain % match- promt user to confirm the recognition- model should self learn based on the user selection.
+![image](https://github.com/Novius-ISSS-AI/30.-MIT--Facial-Recognition/assets/129680262/76b0e3b7-8f01-4fa4-8d80-62892bb2b026)
 
 Data Collection: Gather a large and diverse dataset of facial images to train your model. Include a wide range of variations in lighting conditions, angles, expressions, ethnicities, and ages to ensure robustness and accuracy.
 
@@ -42,7 +43,7 @@ Hardware to capture the images. These images can also be fed into the software f
 Intelligence to compare the captured faces with existing data.
 Database, i.e., an existing collection of identities. These can be anything from employee databases to images scrubbed from social media. (Please note that scrubbed social media images are unethical.)
 ![image](https://github.com/Novius-ISSS-AI/30.-MIT--Facial-Recognition/assets/129680262/8d227163-cd82-4c3d-b135-26737d4b7902)
-![image](https://github.com/Novius-ISSS-AI/30.-MIT--Facial-Recognition/assets/129680262/76b0e3b7-8f01-4fa4-8d80-62892bb2b026)
+
 
 Now, let’s understand how FRS works.
 
