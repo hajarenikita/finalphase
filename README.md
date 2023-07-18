@@ -6,7 +6,15 @@ Creating an AI-based facial recognition software involves several steps, follwin
 Define the Objectives: 
 1. User should be able to upload the picture and system should be able to find the face from the live and recorded videos with time stamp.
 2. System should be able to highlight after certiain % match- promt user to confirm the recognition- model should self learn based on the user selection.
-
+3. Should effectively operate on cameras with moving backgrounds such as drones and body cams
+4. Should Utilize integrated zoom in & tracking algorithm that enables detection of distant objects
+5. AI methodologies should work autonomously 24/7 and self-improve
+6. lower hardware expectations compared to similar solutions
+7. Both cloud and on-premise software (no Internet required) on a variety of hardware.
+8. Self-Learning- fine-tune engine to help meet specific needs, such as a certain camera angle or lighting condition.
+9. Archiving- Store and Access PPE identity data any time from pre-recorded or archived videos, even while offline.
+10. No third-party dependency- engine should eliminate the need for third party dependency since this system should run on its own engine.
+11. Five is Better than One- return many detections from one image. Achieve this by utilizing multiple distinct neural networks.
    
 ![image](https://github.com/Novius-ISSS-AI/30.-MIT--Facial-Recognition/assets/129680262/76b0e3b7-8f01-4fa4-8d80-62892bb2b026)
 
