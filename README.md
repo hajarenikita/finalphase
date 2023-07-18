@@ -6,7 +6,11 @@ Creating an AI-based facial recognition software involves several steps, follwin
 Define the Objectives: 
 1. User should be able to upload the picture and system should be able to find the face from the live and recorded videos with time stamp.
 2. System should be able to highlight after certiain % match- promt user to confirm the recognition- model should self learn based on the user selection.
+
+   
 ![image](https://github.com/Novius-ISSS-AI/30.-MIT--Facial-Recognition/assets/129680262/76b0e3b7-8f01-4fa4-8d80-62892bb2b026)
+
+
 
 Data Collection: Gather a large and diverse dataset of facial images to train your model. Include a wide range of variations in lighting conditions, angles, expressions, ethnicities, and ages to ensure robustness and accuracy.
 
@@ -27,6 +31,8 @@ Testing and Validation: Test the final trained model on an independent test data
 Deployment: Integrate the trained model into a software application or system. Develop an interface that accepts images or video streams, performs real-time facial recognition, and outputs the results. Ensure that the software handles various scenarios, such as detecting multiple faces, handling occlusions, and maintaining accuracy under different environmental conditions.
 
 Continuous Improvement: Monitor the performance of the deployed system and collect user feedback. Continuously refine and update the model to enhance its accuracy, incorporate new features, and address any limitations or shortcomings.
+
+Documentation: Document at all the steps.
 
 Remember that developing an AI-based facial recognition software is a complex task that requires expertise in machine learning, computer vision, and software engineering. It's essential to follow ethical considerations, prioritize user privacy and data security, and comply with legal regulations when working with facial recognition technology.
 
@@ -56,14 +62,14 @@ Each facial recognition software provider focuses on different aspects of the te
 ![image](https://github.com/Novius-ISSS-AI/30.-MIT--Facial-Recognition/assets/129680262/975daa84-ce03-406b-8c2c-e6f61c287b47)
 
 REF SOLUTIONS-
-Betaface
-Amazon Rekognition
-Cognitec
-BioID
-Trueface.ai
-Sky Biometry
-SenseTime
-Kairos
-FaceFirst
-Face++
-DeepVision AI
+1. Betaface
+2. Amazon Rekognition
+3. Cognitec
+4. BioID
+5. Trueface.ai
+6. Sky Biometry
+7. SenseTime
+8. Kairos
+9. FaceFirst
+10. Face++
+11. DeepVision AI
