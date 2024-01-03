@@ -1,4 +1,4 @@
-# 30.-MIT--Facial-Recognition
+# 10.-MIT--Facial-Recognition
 #TASKS-
 
 Creating an AI-based facial recognition software involves several steps, follwing are high-level steps to be followed, of the typical process:
